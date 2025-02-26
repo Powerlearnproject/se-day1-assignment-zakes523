@@ -14,18 +14,58 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+Planning:define project scope, goals, timelines and  budget.
+Design:Create architectural designs and system models.
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall:Linear, sequential approach
+         :Rigid structure with minimal flexibility.
+         :Extensive documentation.
+Appropriate scenario:
+ Projects with well-defined, stable requirements.
 
+ Agile Methodology:Adaptable to changing requirements.
+                  :Customer-centric.
+                  :Continuous collaboration.
+Appropriate scenario:
+ Software development with evolving requirements.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Software Developer:Debugging and troubleshooting  
+                  :Collaborating with team members
+                  :Implementing software features
 
+Quality Assurance Engineer:Desingning test cases
+                          :Ensuring software meet quality standards 
+                          :Conducting regressionn testing
 
+Project Manger:Project planning and scheduling
+              :Risk management
+              :Resource allocation
+              
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Integrated Development Environments (IDEs)
+Examples:Visual Studio Code
+        :Eclipse
 
+Version Control Systems (VCS)
+Examples:Git
+        :Subversion (SVN)
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Changing Requirements
+Strategy: Implement Agile methodologies
+        :Use flexible development approaches
+
+Scalability
+Strategy: Modular architecture
+        :Design for future growth
+
+Security Concerns
+Strategy: Regular security audits
+        :Implement secure coding practices
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
