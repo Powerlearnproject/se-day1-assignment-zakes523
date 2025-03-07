@@ -69,12 +69,32 @@ Strategy: Regular security audits
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+unit testing: Unit testing involves individual components or functions of a software application 
+              in isolation.
+
+importance: It ensures that each unit of code works without any problems.
+
+
+Integration testing: verifies unit and components are working together as they should.
+
+importance:  It helps detect issues in how diffferent parts of the system interact, like databases and third-party services.
+
+
+System testing: Evaluates the entire application to ensure it meets functional also non functioning requirements. 
+
+importance: Validate that the complete system operates as intended in a real-world scenario.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is practicing of designing clear and affective prompt to interact with AI models ensuring they generate accurate and relevant responses.
 
+Importance of prompt engineering: It increases quality of AI responses.
+                                : Helps alot of users communicate better with AI.
+                                
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague: tell me about AI.
+Clear: explains AI in simple terms, including its types and real-world uses.
